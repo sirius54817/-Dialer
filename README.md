@@ -8,3 +8,4 @@ including popular messengers (Whatsapp, Telegram, Signal, Viber, and Threema). <
 [Google Play](https://play.google.com/store/apps/details?id=com.goodwy.dialer)<br><br>
 
 Based on [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer).
+# -Dialer
