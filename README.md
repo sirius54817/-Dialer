@@ -9,3 +9,4 @@ including popular messengers (Whatsapp, Telegram, Signal, Viber, and Threema). <
 
 Based on [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer).
 # -Dialer
+# -Dialer
